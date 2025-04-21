@@ -1,7 +1,32 @@
 ![Logo](https://github.com/srighankittu/srighankittu/blob/main/My%20README.png)
 
-# 💫 About Me:
-<br>👋 Hey there! I'm the code whisperer behind this GitHub profile, currently weaving magic at TCS. With 2.5 years of turning coffee into code, I've danced through a symphony of projects ranging from Angular + .NET to Angular + Java Microservices, and even serenaded with a MERN stack application. 🎶🖥<br><br>As an Frontend aficionado, I've painted the digital canvas with interactive frontend features, and dipped my toes in the backend pool, crafting simple APIs like a true backend bard. 🎨👨‍💻<br><br>🌟 What's in my arsenal, you ask?<br><br>Angular: Building blocks of my frontend fortress.<br>React + NodeJs (Express): My go-to duo for full-stack fanfare.<br>MongoDB: Where I stash my data treasures.<br>A sprinkle of .NET: Just enough to add some extra flavor.<br>I've conjured up everything from eye-catching frontend features to robust full-stack applications, always aiming to bridge the gap between human and machine with every line of code. 🌉💻<br><br>Outside the matrix, I'm an adventurer in the digital realm and beyond, constantly seeking new technologies to master and realms to explore. 🚀🌌<br><br>So, if you're looking for a developer who not only speaks in code but also dreams in it, you've come to the right place. Dive into my repositories and let's embark on a coding odyssey together! 🛠️💫
+# 💫 About Me
+
+👋 Hello! I'm a passionate Frontend Developer with **3 years and 8 months** of industry experience, currently crafting intuitive user interfaces at **Insightsoftware**. My journey began at **TCS**, where I spent **2 years and 10 months** focusing on building dynamic web applications using the **MERN stack**, primarily working with **React** and **Redux**.
+
+At **Insightsoftware**, my work revolves around the UI layer — developing modern, scalable, and performant interfaces using **Vue.js**, **JavaScript**, and **Vuex**. I’ve also gained hands-on experience with **automation testing using Playwright**, as well as integrating with **gRPC** and **GraphQL** APIs.
+
+---
+
+### 🛠️ Tech Stack Highlights
+
+- **Vue.js + Vuex** – My current frontend playground at Insightsoftware.
+- **React + Redux** – Backbone of my frontend work at TCS.
+- **JavaScript (ES6+)** – My go-to language for building logic-rich interfaces.
+- **Playwright** – For automating end-to-end UI tests.
+- **GraphQL & gRPC** – Efficient data fetching and API communication.
+- **HTML5, CSS3, SASS, Tailwind** – Styling the web with precision.
+
+---
+
+I’m dedicated to crafting seamless and user-centric interfaces. From component libraries to state management and automated testing, I bring both structure and creativity to frontend development.
+
+When I’m not coding, you’ll find me exploring new frameworks, sharpening my DSA skills, or diving deep into frontend architecture and performance optimization.
+
+---
+
+✨ Let’s connect through code! Explore my repositories to see how I bring ideas to life on the web.
+
 
 
 ## 🌐 Socials:
