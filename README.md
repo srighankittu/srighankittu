@@ -4,13 +4,13 @@
 
 👋 Hello! I'm a passionate Frontend Developer with **3 years and 8 months** of industry experience, currently crafting intuitive user interfaces at **Insightsoftware**. My journey began at **TCS**, where I spent **2 years and 10 months** focusing on building dynamic web applications using the **MERN stack**, primarily working with **React** and **Redux**.
 
-At **Insightsoftware**, my work revolves around the UI layer — developing modern, scalable, and performant interfaces using **Vue.js**, **JavaScript**, and **Vuex**. I’ve also gained hands-on experience with **automation testing using Playwright**, as well as integrating with **gRPC** and **GraphQL** APIs.
+At **Insightsoftware**, my work revolves around the UI layer — developing modern, scalable, and performant interfaces using **React/Redux**, **JavaScript**, and **Vue2/Vuex**. I’ve also gained hands-on experience with **automation testing using Playwright**, as well as integrating with **gRPC** and **GraphQL** APIs.
 
 ---
 
 ### 🛠️ Tech Stack Highlights
 
-- **Vue.js + Vuex** – My current frontend playground at Insightsoftware.
+- **React + Redux and Vue.js + Vuex** – My current frontend playground at Insightsoftware.
 - **React + Redux** – Backbone of my frontend work at TCS.
 - **JavaScript (ES6+)** – My go-to language for building logic-rich interfaces.
 - **Playwright** – For automating end-to-end UI tests.
